@@ -1,0 +1,17 @@
+page-week1 {
+    .SelectedImageContiner{
+        width: 100%;
+        text-align: center;
+        padding-top: 15px;
+
+        img{
+            width: 150px;
+            //display: block;
+
+        }
+        button{
+            width: 50% !important;
+            margin-left: 25%;
+        }
+    }
+}
